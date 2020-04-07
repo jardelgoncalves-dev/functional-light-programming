@@ -19,7 +19,7 @@ foo(25);
 z;     // 175
 ```
 
-- Solution implementation
+### Solution implementation
 ```js
 function bar(x, y, z) {
   foo(x)
